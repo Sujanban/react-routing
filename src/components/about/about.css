@@ -1,0 +1,7 @@
+section{
+    background-color: rgb(218, 239, 255);
+    height: 90vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

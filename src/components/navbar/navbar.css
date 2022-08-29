@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    height: 10vh;
+    background-color: #5f6b6d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header .logo a {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  header nav {
+    display: flex;
+  }
+  header nav li {
+    list-style-type: none;
+  }
+  header nav li a {
+    padding: 1rem;
+    text-decoration: none;
+    color: black;
+  }
+  
